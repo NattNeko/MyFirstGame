@@ -35,6 +35,7 @@ Open NataliaNagorka.7z -> NataliaNagorka -> bin -> Debug -> NataliaNagorka.exe
 
 
 ## Usage
+(C#)
 
 using System;
 using System.Collections.Generic;
