@@ -34,11 +34,11 @@ How to open the game:
 Open NataliaNagorka.7z -> NataliaNagorka -> bin -> Debug -> NataliaNagorka.exe
 
 How to play:
-If you want to play as a cat - press "c", or as dog - press "d". 
+If you want to play as a cat - press "c", or as a dog - press "d". 
 If you want to fly higher press or hold spacebar.
 Be careful not to touch the lolipops or the ground.
 To restart - press "r".
-For every safe passage through the lolipop you get 1 point.
+For every safe passage through the lolipop you get 1 point (Points are charging when lolipop disappears behind the screen).
 
 
 
