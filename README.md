@@ -16,6 +16,7 @@
 ## General Information
 - "Flying Animals" is a game made by me.
 - I did it as a project for programming lesson.
+- This site helped me a lot with writing the code: https://www.mooict.com/create-flappy-bird-game-in-visual-studio-using-c/
 
 
 
