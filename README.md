@@ -1,4 +1,4 @@
-# MyFirstGame#
+# MyFirstGame
 
 
 ## Table of Contents
@@ -260,7 +260,6 @@ Project is: complete
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by Nguyễn Hà Đông's game Flappy Bird
 - Many thanks to Tomasz for making textures for this game
 
